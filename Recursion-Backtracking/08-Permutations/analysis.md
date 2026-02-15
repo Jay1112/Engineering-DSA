@@ -14,5 +14,7 @@ Example 3:
 Input: nums = [1]
 Output: [[1]]
 
+## T(N) = N * T(N-1) + O(N)
+
 ## Time  Complexity : O(N * N!) [N=> Array push]
 ## Space Complexity : O(N!)
